@@ -54,7 +54,7 @@ header {
     z-index: 10;
     padding: 1rem;
     text-align: left;
-    font-size: 2rem; /* tamanho da fonte */
+    font-size: 1rem; /* tamanho da fonte */
     font-family: 'Lora', serif; /* parágrafos */
 }
 
