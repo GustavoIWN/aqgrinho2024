@@ -71,6 +71,8 @@ p {
     letter-spacing: 0.5px; /* espaçamento entre letras */
     line-height: 1.6; /* espaçamento entre linhas */
     text-align: justify; /* Justificar texto */
+    text-indent: 1.5cm; /* Recuo de 1,5 cm na primeira linha */
+
 }
 
 /* Estilo dos botões */
@@ -138,31 +140,6 @@ tr {
 
 
 
-/* Estilos para o bloco especial */
-
-.bloco-especial {
-    display: flex;
-    align-items: center;
-    margin: 1rem 0;
-
-    background: rgba(255, 255, 255, 0.7);
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 1rem;
 
 
-}
 
-.imagem-esquerda {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-right: 1rem;
-}
-
-.texto-direita {
-    max-width: 60%;
-}
