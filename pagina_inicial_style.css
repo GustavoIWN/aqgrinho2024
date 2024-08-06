@@ -54,23 +54,23 @@ body, html {
 }
 
 .content h1 {
-    font-size: 3rem; /* Tamanho do título principal */
+    font-size: 2rem; /* Tamanho do título principal */
     margin-bottom: 0.5rem;
 }
 
 .content h2 {
-    font-size: 2.5rem; /* Tamanho do subtítulo */
+    font-size: 1.5rem; /* Tamanho do subtítulo */
     margin-bottom: 0.5rem;
 }
 
 .content h3 {
-    font-size: 2rem; /* Tamanho do subtítulo menor */
+    font-size: 1.2rem; /* Tamanho do subtítulo menor */
     margin-bottom: 1rem;
 }
 
 /* Estilo para os nomes dos integrantes */
 .integrantes {
-    font-size: 1.5rem; /* Tamanho do texto dos integrantes */
+    font-size: 1rem; /* Tamanho do texto dos integrantes */
     margin-bottom: 2rem;
 }
 /* Estilo dos botões */
@@ -81,7 +81,7 @@ body, html {
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    font-size: 1.25rem; /* Aumentar tamanho da fonte */
+    font-size: 1.1rem; /* Aumentar tamanho da fonte */
     display: inline-block;
     margin-top: 1rem;
 }
